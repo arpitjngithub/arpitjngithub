@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arpit Jain, a third year UG student at Indian Institute of Technology Bombay (IIT Bombay)
 - 👀 I’m interested in Machine Learning and its applications
 - 🌱 I’m currently learning Computer vision and Reinforcement Learning
-- 💞️ I’m looking to collaborate on Computer Vision related projects
+- 💞️ I’m looking to collaborate on Machine Learning and Computer Vision related projects
 - 📫 Reach me through my gmail : arpitjain8302@gmail.com
 
 <!---
