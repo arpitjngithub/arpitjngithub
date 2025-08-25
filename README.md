@@ -1,7 +1,5 @@
-- 👋 Hi, I’m Arpit Jain, a third year UG student at Indian Institute of Technology Bombay (IIT Bombay)
+- 👋 Hi, I’m Arpit Jain, a final year UG student at Indian Institute of Technology Bombay (IIT Bombay)
 - 👀 I’m interested in AI and its applications.
-- 🌱 I’m currently learning about LLMs and Computer Vision
-- 💞️ I’m looking to collaborate on LLM and AI in Healthcare related projects
 - 📫 Reach me through my gmail : arpitjain8302@gmail.com
 
 <!---
